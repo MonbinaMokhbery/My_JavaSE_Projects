@@ -7,7 +7,8 @@ public class NormalEmployee extends Person {
 
     @Override
     public String toString() {
-        return "NormalEmployee{"
-                +super.toString()+ '}';
+        return "NormalEmployee{" +
+                super.toString()+
+                '}';
     }
 }

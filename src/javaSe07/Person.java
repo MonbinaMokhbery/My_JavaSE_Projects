@@ -1,5 +1,7 @@
 package javaSe07;
 
+import com.sun.jnlp.FileSaveServiceImpl;
+
 public class Person {
     private String name;
     private String family;
@@ -51,7 +53,8 @@ public class Person {
                 "address='" + address + '\'' +
                 ", name='" + name + '\'' +
                 ", family='" + family + '\'' +
-                ", Id=" + Id +
-                '}';
+                ", Id=" + Id;
     }
+
+
 }
