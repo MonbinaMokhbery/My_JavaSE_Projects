@@ -1,4 +1,4 @@
-package javaSe07;
+package JavaSe07;
 
 public class NormalEmployee extends Person {
     public NormalEmployee(String address, String family, int id, String name) {

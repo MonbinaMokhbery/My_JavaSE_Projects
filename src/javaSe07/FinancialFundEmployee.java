@@ -1,4 +1,4 @@
-package javaSe07;
+package JavaSe07;
 
 public class FinancialFundEmployee extends Person {
     private int credit;

@@ -1,4 +1,4 @@
-package javaSe07;
+package JavaSe07;
 
 public class SingleCustomer extends Person {
     private int number;

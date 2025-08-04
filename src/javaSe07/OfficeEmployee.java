@@ -1,4 +1,4 @@
-package javaSe07;
+package JavaSe07;
 
 public class OfficeEmployee extends Person{
     private String accesslevel;
@@ -7,6 +7,7 @@ public class OfficeEmployee extends Person{
         super(address, family, id, name);
         this.accesslevel = accesslevel;
     }
+
 
     public String getAccesslevel() {
         return accesslevel;

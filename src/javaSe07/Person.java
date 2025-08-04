@@ -1,4 +1,4 @@
-package javaSe07;
+package JavaSe07;
 
 import com.sun.jnlp.FileSaveServiceImpl;
 
